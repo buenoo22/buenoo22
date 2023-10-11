@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou o bueno
+- 👀 Estou interessado em futsal
+- 🌱 Atualmente estou aprendendo pensamento computacional
+- 💞️ Estou procurando colaborar nas aulas
